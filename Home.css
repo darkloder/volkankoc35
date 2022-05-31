@@ -1,0 +1,414 @@
+.u-block-030a-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-030a-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-030a-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/mehmet-alper-namli-75eq-0SaTO0-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 882px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 6rem;
+  background-image: none;
+  margin: 252px 161px 0 auto;
+}
+
+.u-section-1-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 46px -59px 60px 177px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 727px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-top: -58px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 557px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-top: -256px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 418px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-top: -374px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 263px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 101px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-top: -373px;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/206ae63598af7bf62215b398409f0561d2306597e999c19725964d0a07fc5e2796dedd429f610b34f9e321789170b07fc5eae50102bd0a0b00f354_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 882px;
+}
+
+.u-section-1-2 .u-text-1 {
+  font-size: 6rem;
+  background-image: none;
+  margin: 162px 292px 0 auto;
+}
+
+.u-section-1-2 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 27px 29px 60px 89px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 727px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-top: -58px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 557px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-right: 224px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-top: -256px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 418px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 168px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-top: -374px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 263px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 106px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-top: -373px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/mehdi-messrro-cO1t2rQ6wMU-unsplash2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 713px;
+}
+
+.u-section-2 .u-text-1 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-weight: 700;
+  font-family: Montserrat, sans-serif;
+  font-size: 4.5rem;
+  margin: 126px 207px 60px 328px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 615px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 71px;
+    margin-right: 107px;
+    margin-left: 228px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    background-position: 5.07% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 619px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    font-size: 2.75rem;
+    margin-right: 0;
+    margin-left: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 553px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    background-position: 14.12% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 577px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.125rem;
+    margin-left: 33px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 786px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 60px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  width: 746px;
+  margin: 20px auto 0;
+}
+
+.u-section-3 .u-gallery-1 {
+  height: 552px;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  grid-gap: 17px;
+}
+
+.u-section-3 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 17px;
+}
+
+.u-section-3 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 689px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 455px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1018px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 720px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 784px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2586px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 2352px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1715px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 1481px;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/daniel-ramos-_1QGDLBvQDA-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 4.5rem;
+  font-family: Montserrat, sans-serif;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-weight: 700;
+  margin: 69px 209px 0 161px;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.5rem;
+  width: 703px;
+  margin: 40px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 109px;
+    margin-left: 61px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 340px;
+  }
+}
